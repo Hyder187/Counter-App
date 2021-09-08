@@ -8,10 +8,15 @@ A counter app
 * [Node Js v14+](https://nodejs.org/en/download)
 
 ## Installation instructions
-Install TypeScript
+### Install TypeScript
 ```bash
 npm install -g typescript
 
+```
+
+### Install SCSS
+```bash
+npm install node-sass
 ```
 
 ## Running on local
